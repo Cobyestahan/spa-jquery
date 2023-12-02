@@ -7,10 +7,16 @@ height: 45vw;
 }
 h1{
     color: aliceblue;
-    font-size: 70px;
+    font-size: 100 px;
+}
+h2{
+    color: aliceblue;
+    font-size: 30 px;
+    text-align: center;
 }
  p{
     color: aliceblue;
+
  }
     
   
