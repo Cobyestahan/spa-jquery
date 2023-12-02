@@ -1,0 +1,16 @@
+.bg{
+background-image: url('https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 45vw;
+}
+h1{
+    color: aliceblue;
+    font-size: 70px;
+}
+ p{
+    color: aliceblue;
+ }
+    
+  
